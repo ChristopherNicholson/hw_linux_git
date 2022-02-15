@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Software engineering is extremely fun!
+=======
+Software engineering is very fun!
+>>>>>>> d92c972765f8e6a138b1977a5a65bc5601da385d
